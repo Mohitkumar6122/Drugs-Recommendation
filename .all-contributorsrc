@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "aayush1844",
+      "name": "aayush1844",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78415888?v=4",
+      "profile": "https://github.com/aayush1844",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Drugs-Recommendation",
+  "projectOwner": "Mohitkumar6122",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
